@@ -1,0 +1,6 @@
+{
+  "name": "星际兽世向导光脑",
+  "description": "星际兽世背景的高级向导光脑模拟器，集疏导预约后台、哨兵档案、神经通讯、朋友圈热搜与同生共死契约管理于一体。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
